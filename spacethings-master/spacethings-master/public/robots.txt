@@ -1,0 +1,5 @@
+# Allow all search engines to crawl the entire site
+User-agent: *
+
+# Sitemap location
+Sitemap: https://spacethings.co.kr/sitemap.xml
